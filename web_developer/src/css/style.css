@@ -1,0 +1,32 @@
+body {
+    font-family: 'times new roman', palatino linotype, athena, tahoma;
+    font-size: 10pt;
+    background-color: rgb(255, 255, 224);
+}
+
+h1 {
+    font-family: 'times new roman', palatino linotype, athena, tahoma;
+    font-size: 12pt;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(204, 0, 0);
+}
+
+h2 {
+    font-family: 'times new roman', palatino linotype, athena, tahoma;
+    font-size: 10pt;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+
+.chapter {
+    font-family: 'times new roman', palatino linotype, athena, tahoma;
+    font-size: 12pt;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(204, 0, 0);
+}
+
+.italic {
+    font-style: italic;
+}
